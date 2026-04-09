@@ -1,6 +1,5 @@
 # Sistema de Folha de Pagamento em Java
 
-Sobre o projeto:
 Este projeto foi desenvolvido como atividade prática da disciplina "Algoritmos e Programação".
 
 O objetivo é simular um sistema simples de folha de pagamento para uma empresa, permitindo o cadastro de colaboradores e o cálculo do salário final conforme o tipo de vínculo.
