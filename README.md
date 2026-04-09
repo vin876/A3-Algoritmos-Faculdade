@@ -11,6 +11,11 @@ Objetivos
 - Organizar o código em classes e métodos
 - Simular um problema real de folha de pagamento
 
+Tecnologias
+Java
+IntelliJ IDEA
+Git/GitHub
+
 Funcionalidades:
 - Cadastrar Funcionário Padrão
 - Cadastrar Funcionário Comissionado
