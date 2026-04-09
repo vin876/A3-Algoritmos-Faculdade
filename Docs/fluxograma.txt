@@ -1,0 +1,21 @@
+### INÍCIO ###
+
+Exibir menu
+Ler opção do usuário
+
+Se opção = 1
+    Cadastrar Funcionário Padrão
+Senão se opção = 2
+    Cadastrar Funcionário Comissionado
+Senão se opção = 3
+    Cadastrar Funcionário Produção
+Senão se opção = 4
+    Gerar Folha de Pagamento
+Senão se opção = 0
+    Encerrar programa
+Senão
+    Exibir mensagem de opção inválida
+
+Repetir até opção = 0
+
+FIM
